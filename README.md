@@ -14,4 +14,8 @@ Enthält eine Reihe an Matlab Dateien bei welcher ani.m ,unter Verwendung der An
 ## animateExample.m
 Von dem Matlab Support bereitgestelltes Beispiel. Es wird in eine vorher evaluierte Funktion herreingezoomt. (zur Zeit zu komplex und irrelevant)  
 <img src="./images/mesh.png" width="200" height="200">
+## Gaussverfahren_LaTex
+Erzeugt eine reduzierte Zeilenstufenmatrix mit zwischenschritten und LaTeX Code  
+<img src="./images/gauss.png" width="323" height="156">
+
 
