@@ -1,7 +1,8 @@
 # matlab
 ## animateSinCos.m
 Von dem Matlab Support bereitgestelltes Beispiel für eine effizente Erstellung einer Annimation. Annimation wird erstellt durch ändern der YData des Plottes anstatt einen neuen Plot zu kreieren
-![Plot](/images/sincos.png)
+<img src="./images/sincos.png" width="100" height="100">
+
 ## EP2_Transmittanz.m 
 animateSinCos.m Angewendet auf eine Physik Aufgabe.
 ## teilchen_sim
